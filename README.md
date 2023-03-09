@@ -1,7 +1,7 @@
 # SpaceMattersWebApp
 Space Matters - Extruder Web App
 
-##Installation
+## Installation
 
 ### 1. Make you have node.js installed on your computer
 You can install it from here: https://nodejs.org/en/download/
